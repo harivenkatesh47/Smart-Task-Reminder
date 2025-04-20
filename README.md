@@ -75,5 +75,3 @@ Developed by **Hari Venkatesh**
 [LinkedIn Profile](https://www.linkedin.com/in/venkateshhari/)
 
 ---
-
-Let me know if you’d like a version with badges or GitHub deployment instructions too!
