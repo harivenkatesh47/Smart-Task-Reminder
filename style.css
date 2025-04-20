@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #79b6d4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+.container {
+    max-width: 600px;
+    background: rgb(191, 217, 234);
+    padding: 30px;
+    border-radius: 8px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1 {
+    text-align: center;
+    
+}
+  
+form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+  
+input, button {
+    padding: 10px;
+    font-size: 16px;
+}
+  
+button {
+    cursor: pointer;
+}
+  
+ul {
+    list-style: none;
+    padding: 0;
+}
+  
+li {
+    background: #e2e2e2;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.task-actions button {
+    margin-left: 10px;
+}
+  
