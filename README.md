@@ -41,6 +41,10 @@ This project demonstrates and reinforces the following JavaScript concepts:
 - **Asynchronous JavaScript**  
   - `setTimeout` — to trigger reminders.
   - `setInterval` — to update the countdown timer in real time.
+ 
+- **Event Delegation**
+  - Handles dynamically added elements.
+  - Better performance (fewer listeners) 
 
 ---
 
