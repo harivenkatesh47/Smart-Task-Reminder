@@ -63,12 +63,6 @@ This project demonstrates and reinforces the following JavaScript concepts:
 
 ---
 
-## 📸 Preview
-
-> *(Optional: Add a screenshot or GIF of your project here)*
-
----
-
 ## 🙌 Credits
 
 Developed by **Hari Venkatesh**  
